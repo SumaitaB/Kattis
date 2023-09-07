@@ -1,5 +1,7 @@
 # Kattis
 Solution to a number of Problems from Kattis Online Judge solved in C and C++
+</br>
+</br>
 Screenshots of my Solutions being Accepted:
 ![Screenshot (285)](https://github.com/SumaitaB/Kattis/assets/51522304/d0189a41-a92f-4569-a038-7c09ebff0463)
 ![Screenshot (284)](https://github.com/SumaitaB/Kattis/assets/51522304/71465d0d-cb35-4666-925f-a72072696a61)
